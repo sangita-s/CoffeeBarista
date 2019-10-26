@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.lyeng.coffeebarista"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.lyeng.coffeebarista.CoffeeCaffeineView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_margin="10dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp" />
+
+</FrameLayout>

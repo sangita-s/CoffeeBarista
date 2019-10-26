@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreference
+        android:id="@+id/notification"
+        android:defaultValue="false"
+        android:key="notification"
+        android:summary="Daily reminders to take afternoon coffee."
+        android:title="Notification"
+        app:iconSpaceReserved="false" />
+
+    <ListPreference
+        android:key="sort"
+        android:entries="@array/sort_oder"
+        android:entryValues="@array/sort_oder_value"
+        android:summary="Choose an order to sort your coffee"
+        android:title="Sort Order"
+        android:defaultValue="DEFAULT"
+        app:iconSpaceReserved="false"/>
+
+</PreferenceScreen>

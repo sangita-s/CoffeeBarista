@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coffee_types">
+        <item>Black Coffee</item>
+        <item>Milk Coffee</item>
+        <item>Herbal Coffee</item>
+    </string-array>
+
+    <string-array name="sort_oder">
+        <item>Default</item>
+        <item>Coffee Type</item>
+        <item>Caffeine Level</item>
+    </string-array>
+
+    <string-array name="sort_oder_value">
+        <item>DEFAULT</item>
+        <item>TYPE</item>
+        <item>CAFFEINE</item>
+    </string-array>
+
+</resources>

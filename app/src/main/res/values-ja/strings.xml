@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">コーヒーバリースター</string>
+    <string name="action_settings">設定</string>
+    <string name="all_notes_deleted">全てのコーヒーの削除済み</string>
+    <string name="caffeine_level">カフェーヌレベル</string>
+    <string name="coffee_added_msg">コーヒー追加済</string>
+    <string name="coffee_deleted_msg">コーヒー削除済</string>
+    <string name="coffee_description">コーヒーについて</string>
+    <string name="ingredients">原料</string>
+    <string name="ctr_cncl_msg">カウンターキャンセルされました</string>
+    <string name="steep_time">ステープ時間</string>
+    <string name="coffee_details_not_added">コーヒー情報追加キャンセル</string>
+    <string name="coffee_origin">コーヒー元場所</string>
+    <string name="coffee_ready_msg">コーヒーは出来ました！</string>
+    <string name="job_sch_msg">ジョブスケジュール済</string>
+    <string name="pref_id_in_sort_is_msg">prefファイルにソートIDは</string>
+    <string name="show_fav_changed">好見せは</string>
+</resources>

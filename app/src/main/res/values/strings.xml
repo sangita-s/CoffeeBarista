@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coffee Barista</string>
+    <string name="action_settings">Settings</string>
+    <string name="coffee_deleted_msg">Coffee Deleted</string>
+    <string name="show_fav_changed">Show fav changed to</string>
+    <string name="all_notes_deleted">All notes deleted</string>
+    <string name="coffee_details_not_added">Coffee details not added</string>
+    <string name="coffee_added_msg">Coffee Added.. I guess..</string>
+    <string name="pref_id_in_sort_is_msg">The sort id in pref file is</string>
+    <string name="job_sch_msg">Job Scheduled, job will run when</string>
+    <string name="coffee_description">Coffee Description</string>
+    <string name="coffee_origin">Coffee Origin</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steep_time">Steep time</string>
+    <string name="caffeine_level">Caffeine Level</string>
+    <string name="coffee_ready_msg">Your coffee is ready!</string>
+    <string name="ctr_cncl_msg">Counter cancelled</string>
+</resources>
